@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+}
+h1 { 
+    font-family: monospace;
+    color: #42ff87;     
+}
+h2 { 
+    font-family: monospace;
+    color: #42ff87; 
+}
+h3 { 
+    font-family: monospace;
+    color: #42ff87; 
+}
+p { 
+    font-family: monospace;
+    color: #42ff87; 
+}
+a { 
+    font-family: monospace;
+    color: #e24ec1; 
+}
