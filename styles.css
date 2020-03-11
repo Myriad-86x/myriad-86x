@@ -21,3 +21,9 @@ a {
     font-family: monospace;
     color: #e24ec1; 
 }
+footer {
+    margin-top: 3em;
+}
+.social-logo {
+    height: 25px;
+}
